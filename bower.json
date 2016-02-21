@@ -1,0 +1,30 @@
+{
+  "name": "Cordova-Noticias-IFGoiano",
+  "version": "1.0.0",
+  "homepage": "https://github.com/luizalexandrew/Cordova-Noticias-IFGoiano",
+  "authors": [
+    "luizalexandrew <luiz.alexandre@live.com>"
+  ],
+  "description": "Aplicativo permite acessar notícias e informações sobre a instituição.",
+  "keywords": [
+    "cordova",
+    "polymer",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.x",
+    "angular-animate": "^1.4.x",
+    "angular-aria": "^1.4.x",
+    "angular-material": "^0.9.0",
+    "angular-route": "~1.4.1",
+    "angular-messages": "~1.4.1"
+  }
+}
